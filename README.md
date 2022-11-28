@@ -1,5 +1,7 @@
 # High Sea Tower
 
+Ceci est un jeu vidéo. 
+
 Le concept est une méduse qui tente de remonter le plus haut possible dans l’océan en sautant de plateforme en plateforme.
 
 L’écran monte graduellement automatiquement, le but est de ne pas tomber au fond de l’océan.
